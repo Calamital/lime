@@ -6,13 +6,13 @@ for /f "delims=" %%i in ('powershell -Command "(Get-Content -Raw './buildsetting
     set "ToBuild=%%i"
 )
 
-@REM cd "/src"
+cd "src"
 
 echo beginning compilation.
 dotnet clean
 dotnet build
 
-@REM cd ../..
+cd ..
 
 if EXIST !ToBuild! (
     echo Beginning to compile '%ToBuild%'

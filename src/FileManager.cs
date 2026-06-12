@@ -1,24 +1,36 @@
-﻿namespace Lime
+﻿using Microsoft.VisualBasic;
+
+namespace Lime
 {
     public class FileManager
     {
-        public static readonly string InterpreterResultPath = "/workspaces/lime/src/Lime/interpreted.cs";
+        public static readonly string InterpreterResultPath = "./workspaces/lime/src/Lime";
+        public static readonly string MainCSCompileScript = "interpreted.cs";
+        public static readonly string MainCSCompileScriptPath = Path.Join(InterpreterResultPath, MainCSCompileScript);
+        public enum CleanResults
+        {
+            Success,
+            NoFiles,
+        }
 
-        public FileManager() {}
+        public FileManager() { }
 
         // deletes interpreted.cs just to ensure a proper reset
-        public static void Clean()
+        public static CleanResults Clean()
         {
-            if (File.Exists(InterpreterResultPath))
+            if (File.Exists(MainCSCompileScriptPath))
             {
-                File.Delete(InterpreterResultPath);
+                File.Delete(MainCSCompileScriptPath);
+            return CleanResults.Success;
             }
+            return CleanResults.NoFiles;
         }
 
         // writes fileText to interpreted.cs
         public static void WriteFile(string fileText)
         {
-            using StreamWriter streamWriter = File.CreateText(InterpreterResultPath);
+            if(!Path.Exists(InterpreterResultPath)) FileSystem.MkDir(InterpreterResultPath);
+            using StreamWriter streamWriter = File.CreateText(MainCSCompileScriptPath);
             streamWriter.Write(fileText);
         }
 

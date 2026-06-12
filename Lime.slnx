@@ -1,4 +1,3 @@
 <Solution>
-  <Folder Name="/src/" />
+  <Project Path="./src/Lime.csproj"/>
 </Solution>
-

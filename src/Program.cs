@@ -4,14 +4,26 @@ namespace Lime
     {
         public static void Main(string[] args)
         {
-            // checks if it is about to interpret a file that doesn't exist
-            if (File.Exists(args[0]))
+            if (File.Exists(args[0])) //validate path
             {
-                // cleaning up interpreted.cs before written to; only happens if "clean" is passed in build.sh
-                if (args[1] == "clean")
+                switch (args[1].ToLower())
                 {
-                    FileManager.Clean();
-                    Console.WriteLine("Cleared /interpreted.cs!");
+                    case "clean":
+                        switch (FileManager.Clean())
+                        {
+                            case FileManager.CleanResults.Success:
+                                Console.WriteLine($"Cleared '{FileManager.InterpreterResultPath}/*' !");
+                                break;
+                            case FileManager.CleanResults.NoFiles:
+                                Console.WriteLine("Nothing to clean.");
+                                break;
+                        }
+                        break;
+                    case "build":
+                    default:
+                        Console.WriteLine("Beginning Build.");
+                        
+                        break;
                 }
 
                 // idk how this part is going to fully work yet but its something like
