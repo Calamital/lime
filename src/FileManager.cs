@@ -56,7 +56,7 @@ namespace Lime
 
             // return new(ReadResults.Success,contents);
 
-            if(!File.Exists(filePath)) return new(ReadResults.NotFound,File.ReadAllText(filePath));
+            if(!File.Exists(filePath)) return new(ReadResults.NotFound,"");
             return new(ReadResults.Success,File.ReadAllText(filePath).Replace("\r\n","\n"));
         }
     }
