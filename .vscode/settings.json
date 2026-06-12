@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "Lime.slnx",
+    "terminal.integrated.defaultProfile.linux": "pwsh"
+}

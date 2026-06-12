@@ -1,0 +1,15 @@
+/workspaces/lime/src/Lime/bin/Debug/net10.0/Lime
+/workspaces/lime/src/Lime/bin/Debug/net10.0/Lime.deps.json
+/workspaces/lime/src/Lime/bin/Debug/net10.0/Lime.runtimeconfig.json
+/workspaces/lime/src/Lime/bin/Debug/net10.0/Lime.dll
+/workspaces/lime/src/Lime/bin/Debug/net10.0/Lime.pdb
+/workspaces/lime/src/Lime/obj/Debug/net10.0/Lime.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lime/src/Lime/obj/Debug/net10.0/Lime.AssemblyInfoInputs.cache
+/workspaces/lime/src/Lime/obj/Debug/net10.0/Lime.AssemblyInfo.cs
+/workspaces/lime/src/Lime/obj/Debug/net10.0/Lime.csproj.CoreCompileInputs.cache
+/workspaces/lime/src/Lime/obj/Debug/net10.0/Lime.sourcelink.json
+/workspaces/lime/src/Lime/obj/Debug/net10.0/Lime.dll
+/workspaces/lime/src/Lime/obj/Debug/net10.0/refint/Lime.dll
+/workspaces/lime/src/Lime/obj/Debug/net10.0/Lime.pdb
+/workspaces/lime/src/Lime/obj/Debug/net10.0/Lime.genruntimeconfig.cache
+/workspaces/lime/src/Lime/obj/Debug/net10.0/ref/Lime.dll
