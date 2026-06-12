@@ -12,6 +12,11 @@ namespace Lime
             Success,
             NoFiles,
         }
+        public enum ReadResults
+        {
+            Success,
+            NotFound,
+        }
 
         public FileManager() { }
 
@@ -35,20 +40,24 @@ namespace Lime
         }
 
         // reads a given lime file line by line and returns the lines separated by \n
-        public static string ReadEntireFile(string filePath)
+        //why are youy doing it like that if all contents are concatenated anyway. also phrased wrong, it doesnt return a list of a string seperated by \n it returns a string
+        public static Tuple<ReadResults,string> ReadEntireFile(string filePath)
         {
-            string contents = "";
-            string? line;
+            // string contents = "";
+            // string? line;
 
-            using (StreamReader streamReader = new(filePath))
-            {
-                while ((line = streamReader.ReadLine()) != null)
-                {
-                    contents += line + '\n';
-                }
-            }
+            // using (StreamReader streamReader = new(filePath))
+            // {
+            //     while ((line = streamReader.ReadLine()) != null)
+            //     {
+            //         contents += line + '\n';
+            //     }
+            // }
 
-            return contents;
+            // return new(ReadResults.Success,contents);
+
+            if(!File.Exists(filePath)) return new(ReadResults.NotFound,File.ReadAllText(filePath));
+            return new(ReadResults.Success,File.ReadAllText(filePath).Replace("\r\n","\n"));
         }
     }
 }

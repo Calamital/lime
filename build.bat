@@ -15,8 +15,12 @@ dotnet build
 cd ..
 
 if EXIST !ToBuild! (
-    echo Beginning to compile '%ToBuild%'
+    echo Cleaning '%ToBuild%'
     dotnet run --project "./src/" --no-build -- "%ToBuild%" "clean"
+    echo Building '%ToBuild%'
+    dotnet run --project "./src/" --no-build -- "%ToBuild%" "build"
+    echo Cleaning '%ToBuild%'
+    dotnet run --project "./src/" --no-build -- "%ToBuild%" "Clean"
 ) else (
     echo Cannot find %ToBuild% to compile.
     exit
