@@ -4,7 +4,7 @@
 buildFile=$(jq -r '.buildFile' buildsettings.json)
 
 # enters the csproject directory to run dotnet
-cd "/workspaces/lime/src/Lime" || exit
+cd "/workspaces/lime/src" || exit
 
 echo "interpreting $buildFile..."
 # interpreter code goes here
