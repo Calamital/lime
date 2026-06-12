@@ -22,7 +22,7 @@ namespace Lime
                     case "build":
                     default:
                         Console.WriteLine("Beginning Build.");
-                        
+
                         break;
                 }
 

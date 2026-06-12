@@ -21,7 +21,7 @@ namespace Lime
             if (File.Exists(MainCSCompileScriptPath))
             {
                 File.Delete(MainCSCompileScriptPath);
-            return CleanResults.Success;
+                return CleanResults.Success;
             }
             return CleanResults.NoFiles;
         }
@@ -29,7 +29,7 @@ namespace Lime
         // writes fileText to interpreted.cs
         public static void WriteFile(string fileText)
         {
-            if(!Path.Exists(InterpreterResultPath)) FileSystem.MkDir(InterpreterResultPath);
+            if (!Path.Exists(InterpreterResultPath)) FileSystem.MkDir(InterpreterResultPath);
             using StreamWriter streamWriter = File.CreateText(MainCSCompileScriptPath);
             streamWriter.Write(fileText);
         }
