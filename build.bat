@@ -16,11 +16,11 @@ cd ..
 
 if EXIST !ToBuild! (
     echo Cleaning '%ToBuild%'
-    dotnet run --project "./src/" --no-build -- "%ToBuild%" "clean"
+    dotnet run --project "./src/" --no-build -- "clean" "%ToBuild%"
     echo Building '%ToBuild%'
-    dotnet run --project "./src/" --no-build -- "%ToBuild%" "build"
+    dotnet run --project "./src/" --no-build -- "build" "%ToBuild%"
     echo Cleaning '%ToBuild%'
-    dotnet run --project "./src/" --no-build -- "%ToBuild%" "Clean"
+    dotnet run --project "./src/" --no-build -- "Clean" "%ToBuild%"
 ) else (
     echo Cannot find %ToBuild% to compile.
     exit

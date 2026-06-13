@@ -15,16 +15,17 @@ dotnet clean
 # builds the interpreter code
 dotnet build
 
+echo "executing..."
 # runs the interpreter to create interpreted.cs
 # arg0 is the filepath of the lime script and arg1 is whether or not to delete interpreted.cs before interpretation
-dotnet run --no-build -- "$buildFile" "clean"
+dotnet run --no-build -- "build" "$buildFile"
 
 echo "complete!"
-echo "executing..."
+# echo "executing..."
 # execution
 
 # executes the interpreted file using dotnet
 # when the interpreter code has been made uncomment the next line
 # dotnet run --file interpreted.cs
 
-echo "complete!"
+# echo "complete!"

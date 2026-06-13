@@ -4,11 +4,18 @@ namespace Lime
 {
     public class Program
     {
+        /*
+        ARGS:
+        [0] = command (build|clean)
+        [1] = file/project path
+        */
         public static void Main(string[] args)
         {
-            if (File.Exists(args[0])) //validate path
+            Tokenizer tokenizer = new();
+            Console.WriteLine($"{{PO}}: {args[0]} on {args[1]}");
+            if (File.Exists(args[1])) //validate path
             {
-                switch (args[1].ToLower())
+                switch (args[0].ToLower())
                 {
                     case "clean":
                         switch (FileManager.Clean())
@@ -24,10 +31,16 @@ namespace Lime
                     case "build":
                     default:
                         Console.WriteLine("Beginning Build.");
-                        (FileManager.ReadResults result, string contents) = FileManager.ReadEntireFile(args[0]);
+                        (FileManager.ReadResults result, string contents) = FileManager.ReadEntireFile(args[1]);
                         if (result != FileManager.ReadResults.Success) { FileManager.HandleReadError(result); return; } //validate successful read
 
                         List<Tokenizer.Token> tokens = Tokenizer.Tokenize(contents);
+
+                        Console.WriteLine("Beginning printout");
+                        foreach (Tokenizer.Token token in tokens)
+                        {
+                            Console.WriteLine($"Token: {token.matcher} Contents: {token.code}");
+                        }
 
                         break;
                 }

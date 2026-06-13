@@ -54,6 +54,7 @@ namespace Lime
         }
         // reads a given lime file line by line and returns the lines separated by \n
         //why are youy doing it like that if all contents are concatenated anyway. also phrased wrong, it doesnt return a list of a string seperated by \n it returns a string
+        // i was saying each line had a \n between it oh grrr
         public static Tuple<ReadResults, string> ReadEntireFile(string filePath)
         {
             // string contents = "";

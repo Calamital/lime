@@ -1,0 +1,1196 @@
+interpreting /workspaces/lime/src/test/test1.lm...
+Build started 06/13/2026 03:02:40.
+     1>Project "/workspaces/lime/src/Lime.csproj" on node 1 (Clean target(s)).
+     1>CoreClean:
+         Deleting file "/workspaces/lime/src/bin/Debug/net10.0/Lime".
+         Deleting file "/workspaces/lime/src/bin/Debug/net10.0/Lime.deps.json".
+         Deleting file "/workspaces/lime/src/bin/Debug/net10.0/Lime.runtimeconfig.json".
+         Deleting file "/workspaces/lime/src/bin/Debug/net10.0/Lime.dll".
+         Deleting file "/workspaces/lime/src/bin/Debug/net10.0/Lime.pdb".
+         Deleting file "/workspaces/lime/src/obj/Debug/net10.0/Lime.GeneratedMSBuildEditorConfig.editorconfig".
+         Deleting file "/workspaces/lime/src/obj/Debug/net10.0/Lime.AssemblyInfoInputs.cache".
+         Deleting file "/workspaces/lime/src/obj/Debug/net10.0/Lime.AssemblyInfo.cs".
+         Deleting file "/workspaces/lime/src/obj/Debug/net10.0/Lime.csproj.CoreCompileInputs.cache".
+         Deleting file "/workspaces/lime/src/obj/Debug/net10.0/Lime.sourcelink.json".
+         Deleting file "/workspaces/lime/src/obj/Debug/net10.0/Lime.dll".
+         Deleting file "/workspaces/lime/src/obj/Debug/net10.0/refint/Lime.dll".
+         Deleting file "/workspaces/lime/src/obj/Debug/net10.0/Lime.pdb".
+         Deleting file "/workspaces/lime/src/obj/Debug/net10.0/Lime.genruntimeconfig.cache".
+         Deleting file "/workspaces/lime/src/obj/Debug/net10.0/ref/Lime.dll".
+     1>Done Building Project "/workspaces/lime/src/Lime.csproj" (Clean target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.61
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+/workspaces/lime/src/Tokenizer.cs(43,20): warning CS8618: Non-nullable field 'args' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the field as nullable. [/workspaces/lime/src/Lime.csproj]
+  Lime -> /workspaces/lime/src/bin/Debug/net10.0/Lime.dll
+
+Build succeeded.
+
+/workspaces/lime/src/Tokenizer.cs(43,20): warning CS8618: Non-nullable field 'args' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the field as nullable. [/workspaces/lime/src/Lime.csproj]
+    1 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.88
+executing...
+{PO}: build on /workspaces/lime/src/test/test1.lm
+Beginning Build.
+/
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+/
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+ 
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+c
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was True L 1 I 3 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+o
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was True L 2 I 3 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+m
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was True L 3 I 3 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+m
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was True L 4 I 3 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+e
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was True L 5 I 3 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+n
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was True L 6 I 3 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+t
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was True L 7 I 3 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+ 
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was True L 7 I 3 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+l
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was True L 7 I 3 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+i
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was True L 7 I 3 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+n
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was True L 7 I 3 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+e
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was True L 7 I 3 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+s
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was True L 7 I 3 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+
+
+regex was False L 0 I 0 s System.Func`2[System.String,System.String]
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+/
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+*
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+i
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+n
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+i
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+n
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+e
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+c
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+o
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+m
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+m
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+e
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+n
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+t
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+s
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+*
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+/
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+
+
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+
+
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+p
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+u
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+b
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+i
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+c
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+t
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+y
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+p
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+e
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+M
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+y
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+T
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+y
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+p
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+e
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+N
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+m
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+e
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+
+
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+{
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+
+
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+p
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+u
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+b
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+i
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+c
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+s
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+t
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+r
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+i
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+n
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+g
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+M
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+y
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+G
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+o
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+b
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+T
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+y
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+p
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+e
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+V
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+r
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+i
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+b
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+e
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+=
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+.
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+.
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+.
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+;
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+
+
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+
+
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+p
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+u
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+b
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+i
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+c
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+c
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+o
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+n
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+s
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+t
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+r
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+u
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+c
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+t
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+o
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+r
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+M
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+y
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+T
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+y
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+p
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+e
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+N
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+m
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+e
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+(
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+i
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+n
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+t
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+3
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+2
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+r
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+g
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+1
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+,
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+f
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+o
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+t
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+r
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+g
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+2
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+,
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+.
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+.
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+.
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+)
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+
+
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+{
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+
+
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+s
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+e
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+f
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+.
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+M
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+y
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+G
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+o
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+b
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+T
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+y
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+p
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+e
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+V
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+r
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+i
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+b
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+e
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+=
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+r
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+g
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+1
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+;
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+
+
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+}
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+
+
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+
+
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+p
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+u
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+b
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+i
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+c
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+T
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+y
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+p
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+e
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+M
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+y
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+G
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+o
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+b
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+T
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+y
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+p
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+e
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+F
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+u
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+n
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+c
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+t
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+i
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+o
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+n
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+(
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+f
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+l
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+o
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+t
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+r
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+g
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+1
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+,
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+i
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+n
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+t
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+3
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+2
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+a
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+r
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+g
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+2
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+,
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+.
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+.
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+.
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+)
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+
+
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+{
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+
+
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+r
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+e
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+t
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+u
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+r
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+n
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+;
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+
+
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+ 
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+}
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+
+
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+}
+regex was True L 17 I 0 s System.Func`2[System.String,System.String]
+{DEBUG}: Token comment is locked
+Beginning printout
+Token: comment Contents: // comment lines
+/* inline comments */
+
+public type MyTypeName
+{
+    public string MyGlobalTypeVariable = ...;
+
+    public constructor MyTypeName(int32 arg1, float arg2, ...)
+    {
+        self.MyGlobalTypeVariable = arg1;
+    }
+
+    public Type MyGlobalTypeFunction(float arg1, int32 arg2, ...)
+    {
+        return;
+    }
+}
+complete!

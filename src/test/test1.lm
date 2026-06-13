@@ -1,16 +1,16 @@
 // comment lines
 /* inline comments */
 
-public Type MyTypeName
+public type MyTypeName
 {
-    public type1 MyGlobalTypeVariable = ...;
+    public string MyGlobalTypeVariable = ...;
 
-    public Constructor MyTypeName(type1 arg1, type2 arg2, ...)
+    public constructor MyTypeName(int32 arg1, float arg2, ...)
     {
         self.MyGlobalTypeVariable = arg1;
     }
 
-    public Type self.MyGlobalTypeFunction(type2 arg1, type1 arg2, ...)
+    public Type MyGlobalTypeFunction(float arg1, int32 arg2, ...)
     {
         return;
     }
