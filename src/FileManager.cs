@@ -39,9 +39,22 @@ namespace Lime
             streamWriter.Write(fileText);
         }
 
+        //prints an error string to console
+        public static void HandleReadError(ReadResults err)
+        {
+            switch(err)
+            {
+                case ReadResults.Success:
+                    Console.WriteLine("The read completed successfully.");
+                    break;
+                case ReadResults.NotFound:
+                    Console.WriteLine("The file could not be found.");
+                    break;
+            }
+        }
         // reads a given lime file line by line and returns the lines separated by \n
         //why are youy doing it like that if all contents are concatenated anyway. also phrased wrong, it doesnt return a list of a string seperated by \n it returns a string
-        public static Tuple<ReadResults,string> ReadEntireFile(string filePath)
+        public static Tuple<ReadResults, string> ReadEntireFile(string filePath)
         {
             // string contents = "";
             // string? line;
@@ -56,8 +69,8 @@ namespace Lime
 
             // return new(ReadResults.Success,contents);
 
-            if(!File.Exists(filePath)) return new(ReadResults.NotFound,"");
-            return new(ReadResults.Success,File.ReadAllText(filePath).Replace("\r\n","\n"));
+            if (!File.Exists(filePath)) return new(ReadResults.NotFound, "");
+            return new(ReadResults.Success, File.ReadAllText(filePath).Replace("\r\n", "\n"));
         }
     }
 }

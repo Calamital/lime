@@ -1,3 +1,5 @@
+using Microsoft.VisualBasic;
+
 namespace Lime
 {
     public class Program
@@ -22,6 +24,10 @@ namespace Lime
                     case "build":
                     default:
                         Console.WriteLine("Beginning Build.");
+                        (FileManager.ReadResults result, string contents) = FileManager.ReadEntireFile(args[0]);
+                        if (result != FileManager.ReadResults.Success) { FileManager.HandleReadError(result); return; } //validate successful read
+
+                        List<Tokenizer.Token> tokens = Tokenizer.Tokenize(contents);
 
                         break;
                 }
