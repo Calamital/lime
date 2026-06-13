@@ -4,6 +4,10 @@ namespace Lime
     {
         public Tokenizer() { }
 
+        enum TokenTrigger
+        { 
+        }
+
         public struct Token
         {
 
@@ -17,7 +21,7 @@ namespace Lime
             foreach (char c in contents)
             {
                 tokenbuffer += c;
-                //should check for token matches here ig
+                
             }
 
             return tokens;
